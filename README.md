@@ -11,15 +11,19 @@ Includes:
   * Ostim Solutions - A Sexlab Solutions Revisited Port b5
     * https://www.loverslab.com/files/file/17441-ostim-solutions-a-sexlab-solutions-revisited-port/
     * the meta file:
-      * ```[General]
+      * ```
+        [General]
         installed=true
         manualURL=https://www.loverslab.com/files/file/17441-ostim-solutions-a-sexlab-solutions-revisited-port/
-        prompt=Please download "Sexlab_Solutions_Revisited_SE_-_Ostim_Beta_5.zip"```
+        prompt=Please download "Sexlab_Solutions_Revisited_SE_-_Ostim_Beta_5.zip"
+        ```
 * ### And then another mod also hosted on LoversLab, where the download via prompt window succeeds:
   * Heels Sound 1.5 SSE
     * https://www.loverslab.com/files/file/1795-heels-sound/
     * meta file:
-      * ```[General]
+      * ```
+        [General]
         installed=true
         manualURL=https://www.loverslab.com/files/file/1795-heels-sound/
-        prompt=Please download "Heels Sound 1.5 SSE.7z"```
+        prompt=Please download "Heels Sound 1.5 SSE.7z"
+        ```
