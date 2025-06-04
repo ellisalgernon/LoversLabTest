@@ -1,6 +1,6 @@
 # LoversLabTest
 Minimal working example to test LoversLab semi-automated downloads (via prompt window). For SSE v1.6.1170, no downgrade or CC content required.
-* LINK
+* https://drive.google.com/file/d/15GRE1Y-uTAF4sYwpXyQO4y4NWUFf527n/view?usp=sharing
 
 Includes:
 * ### Some "sanity check" examples to make sure the process is working in principle:
