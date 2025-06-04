@@ -27,7 +27,7 @@ Includes:
         prompt=Please download "Heels Sound 1.5 SSE.7z"
         ```
 
-In the log, the failure always looks like this:
+These links/downloads work fine directly from a browser. In the log, the failure always looks like this:
 ```
 00:01:33.036 [INFO] (Wabbajack.Downloaders.Manual.ManualDownloader) Starting manual download of https://www.loverslab.com/files/file/1795-heels-sound/
 00:01:37.957 [DEBUG] (Wabbajack.Networking.Http.ResumableDownloader) Download for 'Heels Sound 1.5 SSE.7z' is starting from 0...
